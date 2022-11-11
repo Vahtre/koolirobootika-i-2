@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="l%??P#^yR{hN:buZsu8G">index</variable></variables><block type="pxt-on-start" id="}aOa0wbt03i9=~0)8)]+" x="0" y="0"></block><block type="device_forever" id="dhU!A`Fm_Ul_:/1f*#dX" x="33" y="145"><statement name="HANDLER"><block type="controls_if" id="+|52?,[/v)cK)H;1W(yg"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="EMPd3eVz^hpX%_fu5e)Y"><field name="NAME">Button.A</field></block></value><statement name="DO0"><block type="device_show_number" id="AufaN0ar$1K$3in:?H4i"><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_random" id="%@Z-$^6G@O_VE0}#7cJD"><value name="min"><shadow type="math_number" id="4(D-R$wAjybEQc5rP]0}"><field name="NUM">0</field></shadow></value><value name="limit"><shadow type="math_number" id="TxMmW()5fFrO7be`wc63"><field name="NUM">10</field></shadow></value></block></value></block></statement><next><block type="controls_if" id="N}7mQa[7Njz(1aIjOPvg"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="=ALPjZtzHb0Sz6m09yif"><field name="NAME">Button.B</field></block></value><statement name="DO0"><block type="device_show_leds" id="*~3Ufh5?3krF8OL!P|ZY"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></next></block></statement></block></xml>
